@@ -3,5 +3,8 @@
     src: url('https://suprem-innit.github.io/futura_heavy_oblique-webfont.woff') format('woff'), 
          url('https://suprem-innit.github.io/futura_heavy_oblique-webfont.ttf')  format('truetype');
     }
+div {
+    font-style:italic;
+}
 
 body {font-family: suprem; font-style: italic;}
